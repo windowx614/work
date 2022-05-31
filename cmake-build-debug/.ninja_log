@@ -1,0 +1,5 @@
+# ninja log v5
+0	117	6750937618932929	CMakeFiles/algorithmusTests.dir/sort1.cpp.obj	8a70474ead3d476
+3	2067	6751858195065500	CMakeFiles/algorithmusTests.dir/main.cpp.obj	21426c62a84df072
+2067	2273	6751858197010622	algorithmusTests.exe	85885cb4e51f50d4
+4	388	6756910362523474	build.ninja	6b6653ee876d48a4

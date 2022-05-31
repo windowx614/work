@@ -1,0 +1,3 @@
+C:/Users/bingnan.zhang/CLionProjects/algorithmusTests/cmake-build-debug/CMakeFiles/algorithmusTests.dir
+C:/Users/bingnan.zhang/CLionProjects/algorithmusTests/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bingnan.zhang/CLionProjects/algorithmusTests/cmake-build-debug/CMakeFiles/rebuild_cache.dir
